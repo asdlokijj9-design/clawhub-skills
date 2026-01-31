@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "name": "示例 Skill (待更新)",
+      "description": "这是一个示例，实际内容需要从网站获取",
+      "url": "https://www.clawhub.ai/skill/example",
+      "fetched_at": "2026-02-01 04:48:09",
+      "category": "other"
+    },
+    {
+      "name": "New Skill (Manual Check Needed)",
+      "description": "Please check https://www.clawhub.ai/skills for updates",
+      "url": "https://www.clawhub.ai/skills",
+      "category": "ai",
+      "fetched_at": "2026-02-01 04:55:14"
+    }
+  ],
+  "last_sync": "2026-02-01 04:55:14"
+}
