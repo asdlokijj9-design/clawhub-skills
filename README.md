@@ -1,21 +1,22 @@
-# ClawHub Skills Sync Repository
+# ClawHub Skills 同步仓库
 
-**Last Sync:** 2026-02-01 04:55:14  
-**Source:** [ClawHub](https://www.clawhub.ai/skills)
+**最后同步:** 2026-02-01 05:11:10  
+**GitHub:** [View](https://github.com/asdlokijj9-design/clawhub-skills)  
+**官网:** [ClawHub](https://www.clawhub.ai/skills)
 
 ---
 
-## Statistics
+## 统计
 
-| Category | Count |
-|----------|-------|
+| 分类 | 数量 |
+|------|------|
 | AI - 人工智能相关 | 1 |
 | Other - 其他 | 1 |
-| **Total** | **2** |
+| **总计** | **2** |
 
 ---
 
-## Category Details
+## 分类详情
 
 ### AI - 人工智能相关
 
