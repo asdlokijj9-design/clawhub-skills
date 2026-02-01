@@ -1,0 +1,1479 @@
+{
+  "title": "ClawHub Skills 完整索引",
+  "blocks": [
+    {
+      "type": "heading1",
+      "heading1": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "🦞 ClawHub Skills 完整索引"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "收录 121 个 Skills，涵盖 11 个分类"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "finance"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Yahoo Finance: 股票价格查询与实时数据"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Polymarket交易机器人: 预测市场交易分析"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Binance API: 加密货币交易接口"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Stripe集成: 支付处理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• PayPal CLI: PayPal管理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 预算追踪: 个人预算管理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 投资组合: 资产管理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 税务计算: 税务计算器"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 发票生成: 账单/发票"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 收据扫描: 收据OCR识别"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 支出追踪: 开支记录"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 加密货币钱包: 钱包管理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 股票市场: 股市数据"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 外汇汇率: 汇率查询"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 信用评分: 信用查询"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "developer"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• GitHub CLI: 版本控制"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• GitLab管理: CI/CD管道"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Docker编排: 容器编排"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Kubernetes部署: K8s集群管理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 代码审查机器人: PR审查"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 测试运行器: 单元测试"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 调试工具: 调试代理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• API文档: OpenAPI规范"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 迁移管理: 数据库迁移"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 监控面板: 系统监控"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• SSH管理: 远程连接"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 终端Shell: 命令行"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• JSON格式化: JSON工具"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Base64编码: 编码解码"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 正则测试: Regex测试"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "communication"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Discord机器人: Discord通知"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Telegram机器人: Telegram自动化"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Gmail搜索: 邮件搜索"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Slack集成: Slack通知"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• WhatsApp机器人: WhatsApp自动化"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 邮件自动化: IMAP/SMTP"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 日历提醒: 日程提醒"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Webhook处理器: API回调"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 通知中心: 多渠道通知"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 短信发送: 短信通知"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 推送通知: 移动推送"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 语音通话: 电话通知"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "notes"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Notion同步: 双向同步"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Obsidian链接: 知识图谱"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Bear笔记: Markdown笔记"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 苹果备忘录: 备忘录管理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Readwise集成: 高亮标注"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 书签管理: 浏览器书签"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• PDF批注: 批注工具"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 思维导图: 导图生成"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 本地搜索: 全文搜索"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 语义搜索: 向量搜索"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 印象笔记同步: Evernote同步"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 高级记事本: 文本编辑"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "media"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• YouTube转录: 视频转文字"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 视频剪辑: 视频处理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 语音转文字: Whisper转录"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 图像生成: DALL-E/SD"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 字幕生成: 字幕制作"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 播客订阅: RSS订阅"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 截图工具: 网页截图"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• GIF制作: 动态图生成"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 语音合成: TTS引擎"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 水印添加: 版权保护"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 图片压缩: 压缩优化"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 视频压缩: 视频优化"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "automation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 定时任务: Cron调度"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 工作流自动化: 自动化流程"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 提醒机器人: 智能提醒"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 批量处理: 任务队列"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 触发器: 事件驱动"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 集成中心: API连接"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Webhook服务器: 实时回调"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 任务队列: 异步任务"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 重试机制: 错误重试"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 速率限制: API限流"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "system"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 系统监控: CPU/内存"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 日志分析: 日志搜索"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 备份工具: 增量备份"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 磁盘清理: 缓存清理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 进程管理: 后台进程"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 健康检查: 服务可用性"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 资源监控: 实时指标"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 安全扫描: 漏洞检测"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 配置更新: 热更新"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 网络测速: 带宽测试"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "ai"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 模型管理: LLM切换"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• RAG系统: 知识增强"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 向量搜索: 语义相似"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 提示词库: 模板管理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 微调工具: 模型微调"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 代理框架: 多代理编排"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• LLM路由: 智能路由"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 上下文窗口: 长文本处理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 评估指标: 准确度测试"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Token优化: 上下文压缩"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "data"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 数据库查询: SQL执行"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 搜索引擎: 全文搜索"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• API网关: 路由管理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 缓存管理: Redis/Memcached"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• JSON处理: 数据转换"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• CSV导出: 报表生成"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• API文档: OpenAPI规范"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• ETL管道: 数据处理"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 查询构建: 条件过滤"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 数据验证: Schema验证"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "devops"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• Docker构建: 容器化"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• CI/CD管道: 自动化部署"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 无服务器部署: 函数计算"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 监控栈: Prometheus/Grafana"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 密钥管理: 环境变量"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 负载均衡: 流量分配"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 日志聚合: ELK栈"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 服务网格: Istio/Linkerd"
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "heading2": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "design"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• UI组件: React/Vue组件"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 模板引擎: 模板生成"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 响应式布局: 适配方案"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 动效工具: 动画制作"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 图标集: 矢量图标"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 主题配色: 配色方案"
+          }
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "text": {
+        "elements": [
+          {
+            "type": "text",
+            "text": "• 字体排版: 字体规范"
+          }
+        ]
+      }
+    }
+  ]
+}
